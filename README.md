@@ -1,1 +1,3 @@
-# Project on two player Tic-Tac-Toe-Game
+# Project Tic-Tac-Toe-Game
+It is a project which allows two players 
+to play tic-tac-toe game and determines the winner.
